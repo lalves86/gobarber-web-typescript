@@ -7,3 +7,13 @@ Foi utilizado o ReactJS com o Typescript para construção da interface, e o sty
 ## API
 
 A API com o backend da aplicação pode ser encontrada no repositório: https://github.com/lalves86/gobarber-typescript-api
+
+## Amostra da interface
+
+Tela de login
+
+![logo fastfeet](https://github.com/lalves86/gobarber-web-typescript/blob/master/public/images/login.png)
+
+Tela de encomendas
+
+![logo fastfeet](https://github.com/lalves86/gobarber-web-typescript/blob/master/public/images/dashboard.png)
