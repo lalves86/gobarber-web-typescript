@@ -14,6 +14,6 @@ Tela de login
 
 ![logo fastfeet](https://github.com/lalves86/gobarber-web-typescript/blob/master/public/images/login.png)
 
-Tela de encomendas
+Tela de dashboard
 
 ![logo fastfeet](https://github.com/lalves86/gobarber-web-typescript/blob/master/public/images/dashboard.png)
